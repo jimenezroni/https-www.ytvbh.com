@@ -1,0 +1,44 @@
+body{
+    background-color: aqua;
+    font-family: "rotate", - sans-serif;
+    
+    
+}
+h1{
+    text-align: center;
+    font-size: 90px;
+}
+h2{
+    font-size: 65px;
+}
+p{
+    color:rgb(, 175, 88);
+ font-size: 50px;
+  }
+  header{
+    display: flex;
+    justify-content: space-between;
+    height: 75px;
+    background-color: coral;
+    align-items: center;
+      padding: 10px;
+  }
+  .LOGO1{
+    display: flex;
+    height:11px ;
+    justify-content: space-between;
+  }
+    a {
+        text-decoration: none
+        cyan;
+    }
+    nav a{
+        font-weight: 700;
+        padding-right: 723px;
+    }
+    nav a :hover{
+    color: white;
+    }
+
+
+  
